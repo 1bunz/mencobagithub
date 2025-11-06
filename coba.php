@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo "Hello, Word!";
+        echo "Hello, bani!";
     ?>
 </body>
 </html>
